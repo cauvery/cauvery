@@ -7,10 +7,10 @@ Experienced Senior Quality Engineer with a passion for delivering impeccable sof
 #### GitHub Highlights
 Open Source Contributions: Active Participation in various Live Hackathon projects,  My contributions focus on improving code quality, enhancing user experiences, and addressing critical issues.
 
-#### Personal Projects: 
+#### Personal Projects
 Check out my personal coding projects, where I've tackled real-world problems, honed my coding skills, and experimented with cutting-edge technologies.
 
-#### Coding Challenges: 
+#### Coding Challenges 
 I enjoy taking on coding challenges on platforms like LeetCode and HackerRank. Solving complex problems and optimizing algorithms is my idea of a good time.
 
 #### Technologies I Love
