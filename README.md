@@ -15,9 +15,13 @@ I enjoy taking on coding challenges on platforms like LeetCode and HackerRank. S
 
 #### Technologies I Love
 Languages: Python, Java, JavaScript
+
 Automation: Selenium, RobotFramework, Appium
+
 Version Control: Git, GitHub
+
 DevOps: Jenkins, Docker
+
 Cloud: AWS, Azure
 
 #### Let's Connect
