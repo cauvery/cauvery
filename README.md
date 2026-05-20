@@ -1,28 +1,89 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Cauvery</h1>
+<h3 align="center">Senior Quality Engineer | Automation Architect | AI-Assisted Engineering Enthusiast</h3>
 
-#### About Me
+---
 
-Experienced Senior Quality Engineer with a passion for delivering impeccable software quality. I'm not just about testing; I thrive on writing clean code, developing automation solutions, and contributing to open-source projects. My journey in the world of software quality is marked by a relentless pursuit of excellence and a commitment to continuous learning.
+## 👨‍💻 About Me
 
-#### GitHub Highlights
-Open Source Contributions: Active Participation in various Live Hackathon projects,  My contributions focus on improving code quality, enhancing user experiences, and addressing critical issues.
+Passionate Senior Quality Engineer with strong expertise in test automation, scalable QA frameworks, cloud technologies, and AI-assisted engineering workflows.
 
-#### Personal Projects
-Check out my personal coding projects, where I've tackled real-world problems, honed my coding skills, and experimented with cutting-edge technologies.
+I specialize in building reliable automation ecosystems that improve software quality, accelerate releases, and enhance developer productivity. My experience spans web, mobile, backend, and cloud platforms with a strong focus on modern engineering practices.
 
-#### Coding Challenges 
-I enjoy taking on coding challenges on platforms like LeetCode and HackerRank. Solving complex problems and optimizing algorithms is my idea of a good time.
+Recently, I've been deeply involved in:
+- 🤖 AI-assisted automation & pair programming
+- 🎭 Playwright-based testing solutions
+- ☁️ Cloud-integrated testing frameworks
+- 🔄 CI/CD optimization & deployment verification
+- 🧠 Intelligent test architecture design
+- 🚀 Developer productivity tooling
 
-#### Technologies I Love
-Languages: Python, Java, JavaScript
+I love solving engineering problems, building clean automation frameworks, and exploring how AI can transform software development and quality engineering.
 
-Automation: Selenium, RobotFramework, Appium
+---
 
-Version Control: Git, GitHub
+## 🛠️ Tech Stack
 
-DevOps: Jenkins, Docker
+### Languages
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
-Cloud: AWS, Azure
+### Automation & Testing
+![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright)
+![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
+![Robot Framework](https://img.shields.io/badge/-Robot_Framework-black?style=flat-square)
+![Appium](https://img.shields.io/badge/-Appium-black?style=flat-square&logo=appium)
 
-#### Let's Connect
-I'm always eager to collaborate on exciting projects, exchange ideas, or simply geek out about code. Feel free to reach out to me via email or connect with me on LinkedIn. Let's make the coding world a better place, one commit at a time!
+### DevOps & Cloud
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=githubactions)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoftazure)
+
+---
+
+## 🚀 What I’m Working On
+
+- AI-powered automation workflows
+- Scalable Playwright frameworks
+- Intelligent CI/CD quality gates
+- Cloud-native test infrastructure
+- Developer productivity tools
+- End-to-end testing architectures
+
+---
+
+## 🌱 Continuous Learning
+
+I enjoy:
+- Solving coding challenges
+- Exploring emerging AI engineering tools
+- Building side projects
+- Improving testing strategies
+- Learning modern software architectures
+- Contributing to engineering communities
+
+---
+
+## 📌 Featured Interests
+
+- Test Automation
+- Quality Engineering
+- AI in Software Testing
+- Developer Experience
+- Cloud Engineering
+- CI/CD
+- Open Source Collaboration
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/cauveryguda/
+- 📧 Email: cauvery@gmail.com
+
+---
+
+⭐️ *"Quality is not just testing — it's engineering confidence into every release."*
